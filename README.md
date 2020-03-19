@@ -18,7 +18,7 @@
 Just add the `md.html.js` script:
 
 ```html
-<script src="https://unpkg.com/md.html.js@0.0.1" type="module"></script>
+<script src="https://unpkg.com/md.html.js@0.0.5" type="module"></script>
 ```
 
 ### Document body
