@@ -2,12 +2,12 @@
   "scripts": {
     "start": "parcel index.md.html",
     "index": "node ./createIndex.js ./themes",
-    "prepublish": "npm version patch"
+    "prepublish": "npm version patch -f"
   },
   "dependencies": {},
   "devDependencies": {},
   "name": "md.html.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "markdown browser compatible without compilation",
   "main": "md.html.js",
   "author": "",
