@@ -1,6 +1,6 @@
 const link = document.createElement("link");
 link.rel = "stylesheet";
-link.href = "./syntax-highlighting.css";
+link.href = "https://unpkg.com/md.html.js@0.0.3/syntax-highlighting.css";
 document.head.prepend(link);
 
 import "https://unpkg.com/prismjs@v1.19.0/components/prism-core.min.js";
