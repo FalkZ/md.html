@@ -1,6 +1,10 @@
+const getCurrentVersionCSS = () =>
+  document.querySelector('[src^="https://unpkg.com/md.html.js@"]').src +
+  "/syntax-highlighting.css";
+
 const link = document.createElement("link");
 link.rel = "stylesheet";
-link.href = "https://unpkg.com/md.html.js@0.0.5/syntax-highlighting.css";
+link.href = getCurrentVersionCSS();
 document.head.prepend(link);
 
 import "https://unpkg.com/prismjs@v1.19.0/components/prism-core.min.js";
