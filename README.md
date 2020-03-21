@@ -1,3 +1,4 @@
+
 # md.html
 
 #### Browser compatible markdown without compilation
@@ -6,10 +7,9 @@
 
 - **no compilation** required
 - **syntax highlighting** out of the box
-- **single file**
-- **loading on demand**: loads highlighting and language support only when needed
-- **progressive loading**: 
-  loads content first, for fast access over slow networks
+- **single file** for styles and markup
+- **loading on demand**: <br> loads highlighting and language support only when needed
+- **progressive loading**: <br> loads content first, for fast access over slow networks
 
 ## Getting Started
 
