@@ -7,7 +7,7 @@
   "dependencies": {},
   "devDependencies": {},
   "name": "md.html.js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "markdown browser compatible without compilation",
   "main": "md.html.js",
   "author": "",
