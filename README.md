@@ -75,7 +75,7 @@ code {
 
 ### Demo
 
-Here is the [demo page](). If you want to edit it just right click `show source` to get your own copy.
+Here is the [demo page](https://unpkg.com/md.html.js/demo/md.html). If you want to edit it just right click `show source` to get your own copy.
 
 ## Editing
 
@@ -95,4 +95,4 @@ For easy editing in VSCode use the following settings:
 and of course the corresponding file extension `.md.html` for your files.
 
 --- 
-created with [md.html]()
+created with [md.html](https://unpkg.com/md.html.js/demo/md.html)
